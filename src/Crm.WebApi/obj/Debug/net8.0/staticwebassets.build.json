@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OFICbDTQK6YL/FBKg3bKpc2mWDRGRLc8I41LBb+yOQA=",
+  "Source": "Crm.WebApi",
+  "BasePath": "_content/Crm.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

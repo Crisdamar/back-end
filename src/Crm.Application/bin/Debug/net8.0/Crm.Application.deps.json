@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Crm.Application/1.0.0": {
+        "dependencies": {
+          "Crm.Domain": "1.0.0",
+          "Crm.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Crm.Application.dll": {}
+        }
+      },
+      "Crm.Domain/1.0.0": {
+        "runtime": {
+          "Crm.Domain.dll": {}
+        }
+      },
+      "Crm.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Crm.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Crm.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crm.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Crm.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Crm.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
